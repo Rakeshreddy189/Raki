@@ -1,7 +1,7 @@
 ## Git commands details
-git clone : clones remote repository
-To create folder – mkdir <foldername>
-To open the folder – vi <foldername>
+- git clone : clones remote repository
+- To create folder – mkdir <foldername>
+- To open the folder – vi <foldername>
 To insert in the folder – press “I”.
 To save and exit – press “esc” and “:wq!”.
 To add your folder – git add.
