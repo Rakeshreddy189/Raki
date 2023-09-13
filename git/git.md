@@ -1,2 +1,26 @@
 ## Git commands details
 git clone : clones remote repository
+To create folder – mkdir <foldername>
+To open the folder – vi <foldername>
+To insert in the folder – press “I”.
+To save and exit – press “esc” and “:wq!”.
+To add your folder – git add.
+To commit changes – git commit –b”message”.
+To save your changes in github – git push.
+To push your created branch to github remote - git push --set-upstream origin <branchname>.
+Create a repository – git init.
+Create a working copy of a local repository – git clone.
+For a remote server, use – git clone< username@host/path/to/repository >.
+Add one or more files – git add <file name> and git add *.
+Commit changes to head (but not yet to the remote repository) – git commit –m “Commit message”.
+Send changes to the master branch of your remote repository – git push origin master.
+List the files you've changed and those you still need to add or commit – git status.
+Fetch and merge changes on the remote server to your working directory – git pull.
+Create a repository – git init.
+Create a working copy of a local repository – git clone.
+For a remote server, use – git clone< username@host/path/to/repository >.
+Add one or more files – git add <file name> and git add *.
+Commit changes to head (but not yet to the remote repository) – git commit –m “Commit message”.
+Send changes to the master branch of your remote repository – git push origin master.
+List the files you've changed and those you still need to add or commit – git status.
+Fetch and merge changes on the remote server to your working directory – git pull.
