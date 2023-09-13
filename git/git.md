@@ -24,3 +24,4 @@
 - Send changes to the master branch of your remote repository – git push origin master.
 - List the files you've changed and those you still need to add or commit – git status.
 - Fetch and merge changes on the remote server to your working directory – git pull.
+- Added something from online
